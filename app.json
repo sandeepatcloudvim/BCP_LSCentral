@@ -1,0 +1,34 @@
+{
+  "id": "900f3428-9d01-4865-a210-1d8bfbd414da",
+  "name": "BCP_LSCentral_RetailItem",
+  "publisher": "BC Prise",
+  "version": "18.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "version": "18.1.2.17441",
+      "publisher": "LS Retail"
+    }
+    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BCP_LSCentral.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}

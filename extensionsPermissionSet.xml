@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PermissionSets>
+  <PermissionSet RoleID="BCP_LSCENTRAL_RETAILITEM" RoleName="BCP_LSCentral_RetailItem" />
+</PermissionSets>

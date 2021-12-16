@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {     
+        "type": "al",
+        "request": "launch",
+         "name": "Microsoft cloud sandbox",
+         "tenant": "vicsmeat1.onmicrosoft.com",
+         "environmentName": "VICS_LSCentral_Sandbox",//Sanbox
+         "environmentType": "Sandbox"
+        }
+    ]
+}
